@@ -10,7 +10,7 @@
 
 - Ask to Assign issue
 
-- Push your changes
+- Push your changes in folders example Java/My_Project.java, Python/merge-sort.py, etc.
 
 - Click the Compare & pull request button
 
